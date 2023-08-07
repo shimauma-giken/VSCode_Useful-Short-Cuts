@@ -2,6 +2,11 @@
  Shortcut lists for VScode
 
 
+|||
+|-|-|
+| 1111 | 22222
+
+
 ## How to fold and unfold code
 
 You can fold and unfold the code by clicking the icon displayed on the left side of the mouse. Shift- click to collapse and expand all .
@@ -10,7 +15,8 @@ Operations with keyboard shortcuts are as follows.
 
 |||
 |-|-|
-test | test
+test | test |
+
 
 
 
