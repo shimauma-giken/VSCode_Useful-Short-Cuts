@@ -27,3 +27,10 @@ Ctrl+K Ctrl+7 | Collapse at level 7
 Ctrl+K Ctrl+8 | Collapse all regions
 Ctrl+K Ctrl+9 | expand all regions
 Ctrl+K Ctrl+/ | Collapse all block comments
+
+
+
+# Windows Short Cuts
+
+1. ファイルのパスを取得
+Explorer > [Shift] + ファイルを右クリック 
