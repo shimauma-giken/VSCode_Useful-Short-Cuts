@@ -34,3 +34,10 @@ Ctrl+K Ctrl+/ | Collapse all block comments
 
 1. ファイルのパスを取得
 Explorer > [Shift] + ファイルを右クリック 
+
+# Links
+
+
+[Markdownから簡単にスライドを作成する「Marp(Marpit)」](https://tracpath.com/works/development/marp/#i-12)
+[【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
+
